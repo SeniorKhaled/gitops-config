@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: gitops-app
-        image: YOUR_DOCKERHUB_USERNAME/gitops-app:latest
+        image: seniorkhaled/gitops-app:latest
         ports:
         - containerPort: 5000
