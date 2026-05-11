@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: gitops-app
-        image: seniorkhaled/gitops-app:12
+        image: seniorkhaled/gitops-app:5
         ports:
         - containerPort: 5000
